@@ -1,0 +1,17 @@
+Escribir el codigo que de solucion 
+al siguiente problema.Supogamos que 
+hay un circulo.Hay n surtidores(4), conjunto de datos gasolina y 
+distancia
+
+#entrada
+N=4 #surtidores de gasolina
+Gasolina =4674
+Distancia=6535
+#salida:1
+
+#Escribir el codigo que de solucion 
+#al siguiente problema.Supogamos que 
+# hay un circulo.Hay n surtidores(4),
+# conjunto de datos gasolina y 
+# distancia
+
